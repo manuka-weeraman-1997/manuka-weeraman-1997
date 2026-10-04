@@ -1,6 +1,6 @@
 # Hi, I'm Manuka Weeraman 👋
 
-**Platform Engineer @ GTN Tech (ISRE)** — DevOps | TechOps | AWS Solutions Architect
+**Platform Engineer @ GTN Tech (ISRE)** - DevOps | TechOps | AWS Solutions Architect
 
 As a Platform Engineer with a BSc in Electrical Engineering from the University of Moratuwa and a Minor Degree in Entrepreneurship from the Department of Industrial Management, Faculty of Business, I bring over 2 years of experience in cloud infrastructure, DevOps, and platform engineering. I am an AWS Certified Solutions Architect Associate and a Java Certified Associate Programmer.
 
@@ -12,12 +12,12 @@ If you're looking to connect with a dedicated and energetic professional who bri
 
 ## 🎓 Education
 
-- BSc (Hons) Electrical Engineering — University of Moratuwa
-- MSc in IT — University of Westminster (Reading)
+- BSc (Hons) Electrical Engineering - University of Moratuwa
+- MSc in IT - University of Westminster (Reading)
 
 ## 📜 Certifications
 
-- AWS Certified Solutions Architect – Associate
+- AWS Certified Solutions Architect - Associate
 - Java Certified Associate Programmer
 
 ## 🛠️ Tools & Technologies
